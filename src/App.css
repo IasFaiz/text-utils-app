@@ -1,0 +1,14 @@
+#textt{
+  background-color: rgb(225, 212, 209);
+}
+.bg{
+  border: 1px darkgray;
+  margin: auto;
+  margin-top: 10mm;
+  text-align: center;
+  width: 200mm;
+  padding: 20px;
+  background-color:rgb(205, 229, 205);
+  border-radius: 10px;
+ 
+}
